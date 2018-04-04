@@ -185,6 +185,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Human-level control through deep reinforcement learning** (2015), V. Mnih et al. [[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf)
 - **Deep learning for detecting robotic grasps** (2015), I. Lenz et al. [[pdf]](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
 - **Playing atari with deep reinforcement learning** (2013), V. Mnih et al. [[pdf]](http://arxiv.org/pdf/1312.5602.pdf))
+- **Deep-learning in Mobile Robotics - from Perception to Control Systems: A Survey on Why and Why not** (2015). [[pdf]](https://arxiv.org/pdf/1612.07139.pdf)
 
 <!---[Key researchers]  [Sergey Levine](https://scholar.google.ca/citations?user=8R35rCwAAAAJ), [Volodymyr Mnih](https://scholar.google.ca/citations?hl=en&user=rLdfJ1gAAAAJ), [David Silver](https://scholar.google.ca/citations?user=-8DNE4UAAAAJ)-->
 
